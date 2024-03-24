@@ -31,7 +31,7 @@
   </a>
   <br>
  <a>
-    <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-FF9900?style=for-the-badge&logo=Amazon+AWS&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   </a>
 </p>
 
