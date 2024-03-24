@@ -27,13 +27,13 @@
     <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
   </a>
   <a>
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white">
-  </a>
-  <br>
- <a>
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   </a>
   <a>
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white">
+  </a>
+  <br>
+   <a>
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   </a>
   <a>
