@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm NIRAJAN RIJAL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=MS+Information+Assurance+@+SCSU;Budding+Data+Scientist;Quantative+Analyst;MS+Software+Engineer;DS+%7C+ML+%7C+NLP+%7C+CV+%7C+AI"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=MS+Information+Assurance+@+SCSU;Budding+Data+Scientist;Quantative+Analyst;MS+Software+Engineer;DS+%7C+ML+%7C+Project- Manager+%7C+CV+%7C+AI"></a>
 </p>
 <hr/>
 <h4 align="center">I am passionate about solving real-world problems through technology. I am a budding Data Scientist, ML Engineer. My main interest lies in Data Science, Machine Learning, and Software Testing, and I have ample practical and research experience in these fields.</h4>
