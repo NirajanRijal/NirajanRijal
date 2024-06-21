@@ -50,6 +50,9 @@
   
   [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajan-rijal-8b1766274/)
   [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirajanrijal8@gmail.com)
+  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nirajanrijal8).
+  
+  
   
 </div>
 <hr/>
