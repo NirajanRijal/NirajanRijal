@@ -17,7 +17,7 @@
     <img alt="mlFlow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue">
   </a>
   <a>
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white">
   </a>
   <a>
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-646464?style=for-the-badge&logo=Flask&logoColor=white">
@@ -50,7 +50,7 @@
   
   [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajan-rijal-8b1766274/)
   [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirajanrijal8@gmail.com)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nirajanrijal8)
+  
   
   
   
