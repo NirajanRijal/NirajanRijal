@@ -5,9 +5,6 @@
 <hr/>
 <h4 align="center">I am passionate about solving real-world problems through technology. I am a budding Data Scientist, ML Engineer. My main interest lies in Data Science, Machine Learning, and Software Testing, and I have ample practical and research experience in these fields.</h4>
 <br>
-<p align="center"> 
-  <a href="https://drive.google.com/file/d/1JCH4QpUpzkzPuI16iLEpagfdE8v5Z_DY/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
-</p>
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a>
